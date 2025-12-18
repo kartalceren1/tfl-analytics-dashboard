@@ -64,7 +64,7 @@ A real-time analytics dashboard for Transport for London (TfL) services. This we
 If you want to run the project locally:
 
 ```bash
-git clone https://github.com/yourname/tfl-analytics-dashboard.git
+git clone https://github.com/kartalceren1/tfl-analytics-dashboard.git
 cd tfl-analytics-dashboard
 python -m venv venv
 source venv/bin/activate
