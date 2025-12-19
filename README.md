@@ -6,8 +6,9 @@ A real-time analytics dashboard for Transport for London (TfL) services. This we
 
 ## Live Demo
 
+The app is deployed and running on Render! You can try it here:  
 
-
+[TfL Analytics Dashboard on Render](https://tfl-analytics-dashboard.onrender.com)
 
 ---
 
@@ -68,6 +69,7 @@ git clone https://github.com/kartalceren1/tfl-analytics-dashboard.git
 cd tfl-analytics-dashboard
 python -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
